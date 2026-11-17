@@ -4,7 +4,7 @@
 
 <a href="https://github.com/shuvopaul601"><img src="https://img.shields.io/badge/GitHub-shuvopaul601-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
 <a href="https://linkedin.com/in/shuvo-paul-ab4a05254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/c/digitalsherlock"><img src="https://img.shields.io/badge/YouTube-DigitalSherlock-FF0033?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@hackingclasszone7142"><img src="https://img.shields.io/badge/YouTube-DigitalSherlock-FF0033?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=shuvopaul601&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square" alt="Profile views" />
 
