@@ -29,16 +29,25 @@ I'm **Shuvo Paul**, a Digital Forensics and Cybersecurity enthusiast from India.
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
-<a href="https://github.com/shuvopaul601">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shuvopaul601&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub account statistics" />
-</a>
-<a href="https://github.com/shuvopaul601">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvopaul601&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
-</a>
+<!-- GitHub Account Statistics -->
+<img
+  height="180"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shuvopaul601&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&cache_seconds=86400"
+  alt="GitHub Account Statistics"
+/>
+
+<!-- Most Used Programming Languages -->
+<img
+  height="180"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shuvopaul601&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&cache_seconds=86400"
+  alt="Most Used Programming Languages"
+/>
 
 </div>
+
 
 <div align="center">
 
