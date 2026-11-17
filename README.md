@@ -1,38 +1,226 @@
-<h1 align="center">Hi 👋, I'm SHUVO PAUL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvopaul601&label=Profile%20views&color=0e75b6&style=flat" alt="shuvopaul601" /> </p>
+<!-- ===================================================== -->
+<!--                  PROFILE HEADER                       -->
+<!-- ===================================================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvopaul601" alt="shuvopaul601" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **FORENSICS SOFTWARE**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:0f172a,100:0891b2&text=SHUVO%20PAUL&fontColor=ffffff&fontSize=65&fontAlignY=45&desc=Digital%20Forensics%20%7C%20Cybersecurity%20%7C%20Malware%20Analysis&descSize=16&descAlignY=68&animation=fadeIn" width="100%" />
 
-- 🌱 I’m currently learning **DIGITAL FORENSICS, MALWARE ANALYSIS**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shuvopaul601/](https://github.com/shuvopaul601/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Digital+Forensics+Enthusiast;Cybersecurity+Researcher;Malware+Analysis+Developer;Python+Security+Tool+Developer;Building+Tools+for+a+Safer+Digital+World" />
 
-- 💬 Ask me about **DIGITAL FORENSIC ANALYSIST**
+<br/><br/>
 
-- 📫 How to reach me **shuvopaul601@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-shuvopaul601-181717?style=for-the-badge&logo=github)](https://github.com/shuvopaul601)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo-paul-ab4a05254)
+[![YouTube](https://img.shields.io/badge/YouTube-DigitalSherlock-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/digitalsherlock)
 
-- 📄 Know about my experiences [https://github.com/shuvopaul601/My_CV.git](https://github.com/shuvopaul601/My_CV.git)
+<img src="https://komarev.com/ghpvc/?username=shuvopaul601&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
 
-- ⚡ Fun fact **I am a content creator in youtube**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shuvo-paul-ab4a05254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvo-paul-ab4a05254" height="30" width="40" /></a>
-<a href="https://fb.com/shuvo.paul.1804109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvo.paul.1804109" height="30" width="40" /></a>
-<a href="https://instagram.com/shuvopaul1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvopaul1105" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/digitalsherlock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="digitalsherlock" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shuvopaul601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shuvopaul601" height="30" width="40" /></a>
+---
+
+<!-- ===================================================== -->
+<!--                    ABOUT ME                            -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+Hello! I'm **Shuvo Paul**, a Digital Forensics and Cybersecurity enthusiast from India.
+
+I enjoy developing security tools, investigating digital evidence, analyzing malware, and exploring the technical aspects of cybersecurity.
+
+- 🔍 Interested in Digital Forensics and Incident Response (DFIR).
+- 🛡️ Exploring Malware Analysis and Threat Detection.
+- 💻 Developing Python-based forensic and security applications.
+- 🌐 Learning Network Security, Linux and Ethical Hacking.
+- 🧪 Interested in Memory Forensics and Reverse Engineering.
+- 🎯 Focused on building practical cybersecurity projects.
+- 🎥 Content creator at **DigitalSherlock**.
+
+**Current Focus:** Developing forensic investigation tools and improving my cybersecurity skills.
+
+---
+
+<!-- ===================================================== -->
+<!--                 GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shuvopaul601&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvopaul601&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvopaul601&theme=github_dark" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shuvopaul601&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvopaul601&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" width="80%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvopaul601&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 💻 Commit Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shuvopaul601&theme=github_dark&utcOffset=5.5" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuvopaul601&theme=github_dark" width="49%" />
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shuvopaul601/pdf-malware-analysis-tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shuvopaul601&repo=pdf-malware-analysis-tool&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/shuvopaul601/Advanced-USB-Monitoring-Freamework">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shuvopaul601&repo=Advanced-USB-Monitoring-Freamework&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/shuvopaul601/advportscanner.py">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shuvopaul601&repo=advportscanner.py&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/shuvopaul601/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shuvopaul601&repo=Portfolio&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuvopaul601?tab=repositories)
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                  TECHNICAL SKILLS                      -->
+<!-- ===================================================== -->
+
+## 🛠️ Languages, Tools & Technologies
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,js,php,mysql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔐 Cybersecurity & Digital Forensics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvopaul601&show_icons=true&locale=en&layout=compact" alt="shuvopaul601" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Autopsy-Forensics-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Volatility-Memory_Forensics-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YARA-Malware_Analysis-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvopaul601&show_icons=true&locale=en" alt="shuvopaul601" /></p>
+### ⚙️ Development & Platforms
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvopaul601&" alt="shuvopaul601" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,visualstudio,pycharm,mysql,sqlite,docker" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+- Malware Reverse Engineering
+- Memory Forensics with Volatility 3
+- Network Traffic Analysis
+- Digital Evidence Acquisition
+- Intrusion Detection Systems
+- Python Automation for Cybersecurity
+- Machine Learning for Threat Detection
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shuvo-paul-ab4a05254">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.youtube.com/c/digitalsherlock">
+<img src="https://img.shields.io/badge/YouTube-DigitalSherlock-FF0000?style=for-the-badge&logo=youtube" />
+</a>
+
+<a href="https://instagram.com/shuvopaul1105">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://fb.com/shuvo.paul.1804109">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" />
+</a>
+
+<a href="mailto:shuvopaul601@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Investigate. Analyze. Secure."
+
+**Thanks for visiting my GitHub profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:020617&height=120&section=footer" width="100%" />
+
+</div>
