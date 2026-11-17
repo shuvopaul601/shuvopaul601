@@ -21,7 +21,7 @@ I'm **Shuvo Paul**, a Digital Forensics and Cybersecurity enthusiast from India.
 - 🧠 **Memory forensics:** learning memory acquisition and Volatility 3
 - 🌐 **Network security:** packet inspection, protocol analysis, and intrusion detection
 - 🐍 **Development:** Python-based forensic and cybersecurity utilities
-- 🎥 **Content:** creator at [DigitalSherlock](https://www.youtube.com/c/digitalsherlock)
+- 🎥 **Content:** creator at [DigitalSherlock](https://www.youtube.com/@hackingclasszone7142)
 
 **Current focus:** developing reliable forensic utilities and strengthening practical skills in malware and network analysis.
 
